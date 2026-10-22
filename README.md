@@ -19,9 +19,9 @@ cp .env.example .env
 
 Edita `.env` e establece os valores de `POSTGRES_DB`, `POSTGRES_USER` e `POSTGRES_PASSWORD`.
 
-POSTGRES_DB=albergues
-POSTGRES_USER=admin_albergues
-POSTGRES_PASSWORD=a_tua_contrasinal_segura
+- POSTGRES_DB=albergues
+- POSTGRES_USER=admin_albergues
+- POSTGRES_PASSWORD=a_tua_contrasinal_segura
 
 ## 3. Arrancar os servizos
 
